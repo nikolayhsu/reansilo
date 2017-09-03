@@ -1,0 +1,4 @@
+karma.conf.js
+postcss.config.js
+webpack.config.js
+**/*.spec.js
